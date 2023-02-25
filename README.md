@@ -1,8 +1,7 @@
 # fpga-text-editor
-Program a FPGA into a simple text editor.
+Program a FPGA into a simple text editor (08/12/2021)
 
-                     08/12/2021
-#Functionalities
+# Functionalities
 0. RST (BTN0) to clear the whole screen.
 1. PUSH (BTN1) to increase internal counter (0 - 15). Return to 0 when > 15. 
 2. STOP (BTN2) to print the current value (0 - f) onto the screen.
