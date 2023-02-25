@@ -1,5 +1,5 @@
 # fpga-text-editor
-Program a FPGA into a simple text editor (08/12/2021)
+Program a FPGA (PYNQ-Z2 board) into a simple text editor (08/12/2021)
 
 # Functionalities
 0. RST (BTN0) to clear the whole screen.
